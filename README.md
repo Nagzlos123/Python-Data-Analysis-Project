@@ -10,9 +10,11 @@ Occupancy: https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+
 
 ## Libraries:
 
+<h5 align="left"> 
 Pandas - a software library written for the Python programming language for data manipulation and analysis.
 NumPy - an open-source programming library for Python that adds support for large, multidimensional tables and matrices.
 Seaborn - a Python data visualization library based on matplotlib. It provides a high-level interface for creating attractive and informative statistical graphics.
 Matplotlib – a library for creating plots for the Python programming language and its numerical extension, NumPy.
 Keras – an open-source software library that provides a Python interface for artificial neural networks. Keras acts as an interface for the TensorFlow library.
 Sklearn - a free machine learning software library for the Python programming language. It includes various classification, regression, and clustering algorithms, including support vector machines, random forests, gradient boosting, and k-means.
+</h5>
