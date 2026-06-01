@@ -1,6 +1,9 @@
 # Python-Data-Analysis-Project
 Classification of numerical data using multilayer perceptron artificial neural networks using Python.
 
+The goal of the project was to develop an application capable of performing statistical and exploratory analysis and classifying data using a multilayer perceptron via artificial neural networks.
+
+##A few key concepts related to the project topic:
 
 Occupancy – data used to determine whether someone is present in a given area based on several characteristics: temperature, humidity, light intensity, carbon dioxide levels in the air, and a humidity ratio calculated from temperature and humidity values by dividing one attribute by the other. To determine whether a given area is occupied, images taken every minute across multiple time intervals were used, and this dataset was compiled in this manner.
 
