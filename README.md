@@ -16,7 +16,7 @@ Neural network – a system designed to process information, whose structure and
 Multilayer perceptron – a network of this type typically consists of one input layer, several hidden layers, and one output layer. The design includes several variants with different numbers of hidden layers.
 
 
-## Źródła danych:
+## Data sources:
 
 Occupancy – data used to determine whether someone is present in a given area based on several characteristics: temperature, humidity, light intensity, carbon dioxide levels in the air, and a humidity ratio calculated from temperature and humidity values by dividing one attribute by the other. To determine whether a given area is occupied, images taken every minute across multiple time intervals were used, and this dataset was compiled in this manner.
 
