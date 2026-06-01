@@ -5,6 +5,16 @@ The goal of the project was to develop an application capable of performing stat
 
 ## A few key concepts related to the project topic:
 
+Classification — the systematic division of objects or phenomena into classes, sections, and subsections, carried out according to a specific principle.
+
+Statistical analysis - the process of collecting and analyzing data to identify patterns and trends. It is a method that uses numbers to try to eliminate any biases when reviewing information. It can also be viewed as a scientific tool that can aid in decision-making.
+
+Exploratory analysis — an approach to statistical inference that involves describing, visualizing, and examining collected data without the need to formulate research hypotheses in advance. It is the initial stage of the scientific process. It may employ statistical modeling methods and statistical hypothesis testing, but uses them to discover, rather than confirm, ideas.
+
+Neural network – a system designed to process information, whose structure and operating principles are, to some extent, modeled on the functioning of parts of the real (biological) nervous system.
+
+Multilayer perceptron – a network of this type typically consists of one input layer, several hidden layers, and one output layer. The design includes several variants with different numbers of hidden layers.
+
 Occupancy – data used to determine whether someone is present in a given area based on several characteristics: temperature, humidity, light intensity, carbon dioxide levels in the air, and a humidity ratio calculated from temperature and humidity values by dividing one attribute by the other. To determine whether a given area is occupied, images taken every minute across multiple time intervals were used, and this dataset was compiled in this manner.
 
 ## Źródła danych:
